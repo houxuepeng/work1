@@ -1,0 +1,144 @@
+#all{
+	width: 1350px;
+	height: 1290px;
+	background-color: #f8f7f6;
+}
+#top1{
+	margin-top: 10px;
+	z-index: 2;
+	width: 1350px;
+	height: 130px;
+	background-color:white;
+}
+#top1-font1{
+	color: #9a9791;
+	font-size: 10px;
+}
+#top1-div{
+	height: 38px;
+	width: 84px;
+	border:1px solid #9a9791;
+	float: left;
+	text-align: center;
+}
+#top1-div1{
+	width: 610px;
+	height: 30px;
+	margin-left: 308px;
+}
+#top1-div1 li{
+	list-style: none;
+	padding-right: 10px;
+	margin: 10px 13px 10px 0;
+	float: left;
+	border-right: 1px solid #ebe7e7;
+}
+#top1-font2-1{
+	color: #ff0000;
+	font-size: 12px;
+}
+#top1-font2-2{
+	color: #666560;
+	font-size: 12px;
+}
+#top1-font2-3{
+	color: #c0a9d6;
+	font-size: 12px;
+}
+#top1-font2-4{
+	color: #666560;
+	font-size: 12px;
+	margin-top: 10px;
+	float: left;
+}
+#top2{
+	text-align: center;
+	width: 1350px;
+	height: 40px;
+	margin-top: 100px;
+	background-color: black;
+	color: white;
+}
+#top2 li{
+	padding-left: 32px;
+	padding-right: 32px;
+	text-align: center;
+	line-height: 40px;
+	list-style-type: none;
+	float: left;
+}
+#middle{
+	width: 1180px;
+	height: 780px;
+}
+#middle-font1{
+	font-size: 10px;
+}
+#middle-1{
+	float: left;
+	padding-top: 20px;
+	margin-left: 85px;
+	height: 630px;
+	width: 1180px;
+	background-color: white;
+}
+#middle-1-1{
+	float: left;
+	margin-left: 20px;
+	width: 410px;
+	height: 410px;
+	border:1px solid #d0cdc7;
+}
+#middle-2{
+	float: left;
+	width: 550px;
+	height: 620px;
+}
+#middle-3{
+	margin-top: -10px;
+	float: left;
+	width: 190px;
+	height: 630px;
+}
+#middle-4{
+	float: left;
+	width: 1180px;
+	height: 100px;
+}
+#bottom{
+	background-color: white;
+	margin-top: -10px;
+	height: 350px;
+	width: 1180px;
+	margin-left: 85px;
+}
+#bottom-1{
+	height: 182px;
+	width: 1180px;
+}
+#bottom-1 li{
+	list-style-type: none;
+	line-height: 22px;
+}
+#bottom-2{
+	height: 160px;
+	width: 1180px;
+	margin-left: 85px;
+}
+#bottom-2 li{
+	float: left;
+	list-style-type: none;
+	border-right: 1px solid #d0cdc7;
+	color: #666560;
+	font-size: 12px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+#bottom-font-1{
+	color: #9a9791;
+	font-size: 12px;
+}
+
+
+
+
